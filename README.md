@@ -53,4 +53,6 @@ Please use the issue tracker here. No guidelines for now, all information is goo
 As im currently have some issues with funding my self and this project i would gladly take a donation to keep this project running with both networking and rent (Currenly unemployed). 
 If you can, please donate here: https://www.paypal.com/donate/?hosted_button_id=3AHV7NHQWMJSC
 
+Or hire me on in Katrineholm Sweden or on distance for your project. mattish.91 at gmail.com =)
+
 Sorry i have to make this edit, im only human and have to live in some way possible.
