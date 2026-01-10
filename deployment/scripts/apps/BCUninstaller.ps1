@@ -3,6 +3,9 @@
 $ProgressPreference = 'SilentlyContinue'
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $tp = "C:\TempPath"
+if (-not (Test-Path $tp)) {
+    New-Item -Path $tp -ItemType Directory -Force | Out-Null
+}
 $owner = "Klocman"
 $repo = "Bulk-Crap-Uninstaller"
 $latestRelease = Invoke-RestMethod -Uri "https://api.github.com/repos/$owner/$repo/releases/latest"
