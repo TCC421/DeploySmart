@@ -1,6 +1,6 @@
 # $$\textsf{\color{white}Deploy\textsf{\color{#0fda00}Smart}}$$
 
-DeploySmart is an application to ease sys admin setup of new/reinstall computers by utilizing autounattend.xml and PowerShell to install applications from a .json list.
+DeploySmart is an application to ease sysadmin setup of new/reinstall computers by utilizing autounattend.xml and PowerShell to install applications from a .json list.
 
 The goal of this project is to make things easier and faster for anyone setting up new computers or re-installing Windows often, may or may not need complex software automatically installed from scratch or even need to install/deploy for multiple companies or inhouse departments with different needs.
 
@@ -47,6 +47,22 @@ If you find something that needs to be fixed, im sorry, im just one person tryin
 ## Issues?
 
 Please use the issue tracker here. No guidelines for now, all information is good information.
+
+## Updates:
+
+There is about to come an update, a huge visual one at that, but also a well needed facelift.
+
+This update will have to be partially manual (unless I figure something out in the next couple of days.
+
+The update includes a few updates to the DB as password reset was done by an admin in the past, this should allow users to update their passwords by them selves using an email (if that is set up).
+
+UI have been made mainly with DaisyUI and TailWind CSS along with icons from Don't awesome utilizing external sources. (I'll use embedded once I can compile them successfully).
+
+I'll also be making an update system (where you could basically unpack your files and the system should notify you in the admin panel).
+
+This update hav been partially done by AI (Copilot), and I have done code review for every single line of code to provide the safety and resolve as many bugs as possible added by Copilot in VS Code. 
+
+Feel free to let me know how you feel about that.
 
 ### Donate
 
